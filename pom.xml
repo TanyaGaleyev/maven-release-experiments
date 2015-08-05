@@ -8,6 +8,10 @@
     <artifactId>maven-release</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:TanyaGaleyev/maven-release-experiments.git</developerConnection>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
